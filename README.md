@@ -1,4 +1,4 @@
-# dashboard-ouvidoria-sic
+# Dashboard-ouvidoria-sic
 Dashboard em Excel para análise de manifestações de Ouvidoria/SIC com base simulada e indicadores de gestão pública.
 
 Dashboard de Ouvidoria/SIC — Base Simulada
